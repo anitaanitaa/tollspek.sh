@@ -1,5 +1,6 @@
 #usr/bin/bash
 clear
+figlet "tollspek.sh"
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -10,14 +11,14 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-figlet"tollspek"
+
 echo $ku" WELOCOME "
 echo $ij"/  ^   ^  \ "
 echo $me"\▪■  ?  ■▪/ "
 echo $me" \ ■   ■ /  "
 echo $ku"- \  -  /   "
 echo $ku"×  \ ¤ /    "
-
+sleep 1
 echo $ku"🐒🐒🐒🐒🐒🐒🐒"
 echo $ku"👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹"
 echo $ku"===================================="
