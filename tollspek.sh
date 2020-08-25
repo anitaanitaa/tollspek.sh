@@ -1,6 +1,5 @@
 #usr/bin/bash
 clear
-figlet "tollspek.sh"
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -11,7 +10,11 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-
+echo "  __  (\_   
+ (_ \ ( '>  
+   ) \/_)=  
+   (_(_ )_  
+  "'""'""'"" | lolcat
 echo $ku" WELOCOME "
 echo $ij"/  ^   ^  \ "
 echo $me"\▪■  ?  ■▪/ "
