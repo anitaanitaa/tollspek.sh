@@ -10,9 +10,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-
 figlet"tollspek"
-
 echo $ku" WELOCOME "
 echo $ij"/  ^   ^  \ "
 echo $me"\▪■  ?  ■▪/ "
