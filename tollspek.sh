@@ -11,7 +11,7 @@ echo
 echo
 echo
 
-figlet -f slant  "ANISTA JAS"|lolcat
+figlet"tollspek"
 
 echo $ku" WELOCOME "
 echo $ij"/  ^   ^  \ "
