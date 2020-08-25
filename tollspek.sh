@@ -10,6 +10,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
+
 figlet -f slant  "ANISTA JAS"|lolcat
 
 echo $ku" WELOCOME "
@@ -18,6 +19,7 @@ echo $me"\▪■  ?  ■▪/ "
 echo $me" \ ■   ■ /  "
 echo $ku"- \  -  /   "
 echo $ku"×  \ ¤ /    "
+
 echo $ku"🐒🐒🐒🐒🐒🐒🐒"
 echo $ku"👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹"
 echo $ku"===================================="
