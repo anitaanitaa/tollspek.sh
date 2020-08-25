@@ -10,11 +10,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-echo "  __  (\_   
- (_ \ ( '>  
-   ) \/_)=  
-   (_(_ )_  
-  "'""'""'"" | lolcat
+echo " SELAMAT MENGGUNAKAN TOLLS. MOHON MAAF KALO ADA KESALAHAN"
 echo $ku" WELOCOME "
 echo $ij"/  ^   ^  \ "
 echo $me"\▪■  ?  ■▪/ "
@@ -45,7 +41,7 @@ echo $ku"---_\\\\\////---"
 echo $ku" ______∆∆∆______"
 echo $ku" (((((  ●  )))))"
 sleep 1
-echo $pr"TOOLS"$ku " INDONESIA"
+echo $pr" TOLLS INDONESIA"
 sleep 1
 echo $me"|"$me" 1"$me".  TOLS PISHING"
 sleep 1
